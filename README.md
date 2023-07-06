@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/sseung__su._/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/sseung__su._/"
-        style="height : auto; margin-left : 10px; margin-right : 10px; border : solid white 1px;"/>
+        style="height : auto; margin-left : 10px; margin-right : 10px; border : 1ps solid white;"/>
 </a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/h2sorginal@gmail.com-EA4335?style=flat-square&logo=maildotcom&logoColor=White"/></a>
 
