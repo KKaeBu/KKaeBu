@@ -7,7 +7,7 @@
 </a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img 
-        src="http://img.shields.io/badge/-h2sorginal@gmail.com-FFCD00?style=flat&logo=Gmail&logoColor=White"
+        src="http://img.shields.io/badge/-h2sorginal@gmail.com-06B6D4?style=flat&logo=Gmail&logoColor=White"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
