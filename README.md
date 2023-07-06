@@ -2,7 +2,7 @@
 <a href="https://www.notion.so/e4fafd76b5b942559cdd2d12f424ac5a" target="_blank"><img src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=Notion&logoColor=White"/></a>
 <a href="https://www.instagram.com/sseung__su._/" target="_blank">
     <img 
-        src="http://img.shields.io/badge/-Instagram-FF3633?style=flat&logo=Instagram&link=https://www.instagram.com/sseung__su._/"
+        src="http://img.shields.io/badge/-Instagram-FF9E2A?style=flat&logo=Instagram&link=https://www.instagram.com/sseung__su._/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
