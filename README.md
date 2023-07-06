@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://www.notion.so/e4fafd76b5b942559cdd2d12f424ac5a" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=White"/></a>
+<a href="https://www.notion.so/e4fafd76b5b942559cdd2d12f424ac5a" target="_blank"><img src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=Notion&logoColor=White"/></a>
 
 <!--
 **KKaeBu/KKaeBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
