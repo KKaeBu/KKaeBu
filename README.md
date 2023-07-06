@@ -6,6 +6,11 @@
         style="height : auto; margin-left : 10px; margin-right : 10px; border : 1px solid white;"/>
 </a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/h2sorginal@gmail.com-EA4335?style=flat-square&logo=maildotcom&logoColor=White"/></a>
+<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+    <img 
+        src="http://img.shields.io/badge/-h2sorginal@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=White"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 <!--
 **KKaeBu/KKaeBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
