@@ -25,7 +25,10 @@
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"
+     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
+     
 <!--
 **KKaeBu/KKaeBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
