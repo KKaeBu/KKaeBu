@@ -1,7 +1,7 @@
 ### ✨Follow Me
 <a href="https://www.notion.so/e4fafd76b5b942559cdd2d12f424ac5a" target="_blank">
     <img 
-        src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=Notion&logoColor=White"
+        src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=Notion&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://www.instagram.com/sseung__su._/" target="_blank">
@@ -11,7 +11,7 @@
 </a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img 
-        src="http://img.shields.io/badge/-h2sorginal@gmail.com-06B6D4?style=flat&logo=Gmail&logoColor=White"
+        src="http://img.shields.io/badge/-h2sorginal@gmail.com-06B6D4?style=flat&logo=Gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
