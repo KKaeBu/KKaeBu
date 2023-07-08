@@ -6,24 +6,24 @@
 </a>
 <a href="https://www.instagram.com/sseung__su._/" target="_blank">
     <img 
-        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sseung__su._/"
+        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sseung__su._/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img 
-        src="http://img.shields.io/badge/-h2sorginal@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"
+        src="http://img.shields.io/badge/-h2sorginal@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 ### 💪Skills
-<img src="http://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white"
+<img src="http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="http://img.shields.io/badge/-Springboot-6DB33F?style=flat&logo=Springboot&logoColor=white"
+<img src="http://img.shields.io/badge/-Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-<img src="http://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white"
+<img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"
+<img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <!--
