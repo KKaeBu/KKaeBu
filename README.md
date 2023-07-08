@@ -43,6 +43,8 @@
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=Intellijidea&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-Eclipseide-2C2255?style=flat-square&logo=Eclipseide&logoColor=white"
+     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
      
 <!--
 **KKaeBu/KKaeBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
