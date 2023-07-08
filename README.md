@@ -22,6 +22,8 @@
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Nodedotjs&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"
+     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <img src="http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
