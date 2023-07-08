@@ -21,6 +21,8 @@
 <img src="http://img.shields.io/badge/-Springboot-6DB33F?style=flat&logo=Springboot&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
+<img src="http://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white"
+     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <!--
 **KKaeBu/KKaeBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
