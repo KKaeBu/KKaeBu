@@ -27,7 +27,7 @@
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-Mongodb-47A248?style=flat-square&logo=Mongodb&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="http://img.shields.io/badge/-Amazonaws-232F3E?style=flat-square&logo=Amazonaws&logoColor=white"
+<img src="http://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=Amazonaws&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"
