@@ -16,7 +16,7 @@
 </a>
 
 ### 💪Skills
-<img src="http://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=White"
+<img src="http://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <!--
 **KKaeBu/KKaeBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
