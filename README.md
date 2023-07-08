@@ -6,12 +6,12 @@
 </a>
 <a href="https://www.instagram.com/sseung__su._/" target="_blank">
     <img 
-        src="http://img.shields.io/badge/-Instagram-FF9E2A?style=flat&logo=Instagram&link=https://www.instagram.com/sseung__su._/"
+        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sseung__su._/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img 
-        src="http://img.shields.io/badge/-h2sorginal@gmail.com-06B6D4?style=flat&logo=Gmail&logoColor=white"
+        src="http://img.shields.io/badge/-h2sorginal@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
