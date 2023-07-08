@@ -22,9 +22,12 @@
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Nodedotjs&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
 <img src="http://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-Mongodb-47A248?style=flat-square&logo=Mongodb&logoColor=white"
+     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-Amazonaws-232F3E?style=flat-square&logo=Amazonaws&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"
