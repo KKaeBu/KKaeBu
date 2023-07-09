@@ -22,7 +22,7 @@
 
 ## 💪Skills
 ###### Languages
-<img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"
+<img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
