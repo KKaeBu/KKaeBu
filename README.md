@@ -14,6 +14,11 @@
         src="http://img.shields.io/badge/-h2sorginal@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://ondevlog.tistory.com/" target="_blank">
+    <img 
+        src="http://img.shields.io/badge/-Blog-FD5F07?style=flat-square&logo=Tistory&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 ## 💪Skills
 ###### Languages
