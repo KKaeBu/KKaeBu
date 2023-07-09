@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=#AA00FF&height=200&section=header&text=Hi!%20I'm%20SeungSu&fontSize=90&fontColor=000000" />
 
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=깨지고+부서지며+성장하는+개발자;백엔드+개발자+한승수+입니다!&font=Do+Hyeon&size=40)](https://git.io/typing-svg)
 
 ## ✨Follow Me
