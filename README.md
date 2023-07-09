@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=#AA00FF&height=200&section=header&text=Hi!%20I'm%20SeungSu&fontSize=90&fontColor=Black" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=#AA00FF&height=200&section=header&text=Hi!%20I'm%20SeungSu&fontSize=90&fontColor=#000000" />
 
 ## ✨Follow Me
 <a href="https://www.notion.so/e4fafd76b5b942559cdd2d12f424ac5a" target="_blank">
