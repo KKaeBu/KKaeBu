@@ -68,9 +68,12 @@
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKaeBu&show_icons=true&theme=radical)
-<a href="s">
+<a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=KKaeBu&theme=tokyonight&show_icons=true" width="42%" />
 </a>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KKaeBu&theme=nord)](https://github.com/KKaeBu/github-readme-activity-graph)
+
 
 <!--
 **KKaeBu/KKaeBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
