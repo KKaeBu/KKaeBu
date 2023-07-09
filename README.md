@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=#AA00FF&height=200&section=header&text=Hi!%20I'm%20SeungSu&fontSize=90&fontColor=000000" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=꺠지고+부서지며+성장하는+개발자;백엔드+개발자+한승수+입니다!)](https://git.io/typing-svg)
 
 ## ✨Follow Me
 <a href="https://www.notion.so/e4fafd76b5b942559cdd2d12f424ac5a" target="_blank">
