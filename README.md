@@ -51,7 +51,11 @@
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=Eclipseide&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Androidstudio&logoColor=white"
+     style="height : auto; margin-left : 10px; margin-right : 10px;"/><br>
 <img src="http://img.shields.io/badge/-Git&amp;GitHub-F05032?style=flat-square&logo=Git&logoColor=white"
+     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
      
 <!--
