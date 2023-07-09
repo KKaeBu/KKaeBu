@@ -64,7 +64,9 @@
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-     
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKaeBu&show_icons=true&theme=radical)
 <!--
 **KKaeBu/KKaeBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
