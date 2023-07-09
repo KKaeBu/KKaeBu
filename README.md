@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 ## ✨Follow Me
 <a href="https://www.notion.so/e4fafd76b5b942559cdd2d12f424ac5a" target="_blank">
     <img 
