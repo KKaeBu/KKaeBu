@@ -16,22 +16,8 @@
 </a>
 
 ### 💪Skills
-<img src="http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"
-     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="http://img.shields.io/badge/-Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"
-     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="http://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Nodedotjs&logoColor=white"
-     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"
-     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-<img src="http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"
-     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="http://img.shields.io/badge/-Mongodb-47A248?style=flat-square&logo=Mongodb&logoColor=white"
-     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="http://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=Amazonaws&logoColor=white"
-     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
+## Languages
 <img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"
@@ -42,8 +28,25 @@
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-     
-<img src="http://img.shields.io/badge/-VSC-007ACC?style=flat-square&logo=Visualstudiocode&logoColor=white"
+
+## Platforms
+<img src="http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"
+     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-Mongodb-47A248?style=flat-square&logo=Mongodb&logoColor=white"
+     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=Amazonaws&logoColor=white"
+     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"
+     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"
+     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Nodedotjs&logoColor=white"
+     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"
+     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
+## Tools
+<img src="http://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visualstudiocode&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=Intellijidea&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
