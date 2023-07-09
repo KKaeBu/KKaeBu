@@ -66,10 +66,9 @@
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKaeBu&show_icons=true&theme=radical)
-<img src="https://raw.githubusercontent.com/KKaeBu/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
-
+-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KKaeBu&theme=nord_dark)
 
