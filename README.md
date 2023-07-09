@@ -1,4 +1,4 @@
-### ✨Follow Me
+## ✨Follow Me
 <a href="https://www.notion.so/e4fafd76b5b942559cdd2d12f424ac5a" target="_blank">
     <img 
         src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=Notion&logoColor=white"
@@ -15,7 +15,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-### 💪Skills
+## 💪Skills
 
 ###### Languages
 <img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"
