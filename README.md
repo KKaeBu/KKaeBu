@@ -68,9 +68,8 @@
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKaeBu&show_icons=true&theme=radical)
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=KKaeBu&theme=tokyonight&show_icons=true" width="42%" />
-</a>
+<img src="https://raw.githubusercontent.com/KKaeBu/github-stats-transparent/output/generated/languages.svg" width="50%" />
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KKaeBu&theme=nord_dark)
 
