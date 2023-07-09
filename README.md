@@ -65,8 +65,12 @@
 <img src="http://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-[![KKaeBu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKaeBu&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKaeBu&layout=compact)](https://github.com/KKaeBu/github-readme-stats)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKaeBu&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=KKaeBu&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 
 <!--
 **KKaeBu/KKaeBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
