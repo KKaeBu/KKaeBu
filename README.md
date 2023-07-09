@@ -72,7 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KKaeBu&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KKaeBu&theme=nord)](https://github.com/KKaeBu/github-readme-activity-graph)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KKaeBu&theme=nord_dark)
 
 
 <!--
