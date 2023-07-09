@@ -51,7 +51,7 @@
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=Eclipseide&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"
+<img src="http://img.shields.io/badge/-Git&amp;GitHub-F05032?style=flat-square&logo=Git&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
      
 <!--
