@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=#AA00FF&height=200&section=header&text=Hi!%20I'm%20SeungSu&fontSize=90&fontColor=000000" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 ## ✨Follow Me
 <a href="https://www.notion.so/e4fafd76b5b942559cdd2d12f424ac5a" target="_blank">
     <img 
@@ -65,9 +67,7 @@
 <img src="http://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKaeBu&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKaeBu&show_icons=true&theme=radical)
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=KKaeBu&theme=tokyonight&show_icons=true" width="42%" />
 </a>
