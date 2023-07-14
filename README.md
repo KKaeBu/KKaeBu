@@ -5,7 +5,7 @@
 ## 👐Introduce
 끊임없이 성장하는 개발자가 되기 위해 노력중인
 주니어 개발자 입니다! 잘 부탁드립니다!!😄<br>
-<a href="https://www.notion.so/Backend-96051ac4321f43fd95915f0ac4dd894e" target="_blank">
+<a href="https://flowery-trouser-e0d.notion.site/Backend-96051ac4321f43fd95915f0ac4dd894e?pvs=4" target="_blank">
     <img 
         src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=Notion&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
