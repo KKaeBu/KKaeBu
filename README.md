@@ -13,11 +13,6 @@
 
 
 ## ✨Follow Me
-<a href="https://www.notion.so/Backend-96051ac4321f43fd95915f0ac4dd894e" target="_blank">
-    <img 
-        src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=Notion&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 <a href="https://www.instagram.com/sseung__su._/" target="_blank">
     <img 
         src="http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sseung__su._/"
