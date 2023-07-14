@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&size=33&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=%EA%B9%A8%EC%A7%80%EA%B3%A0+%EB%B6%80%EC%84%9C%EC%A7%80%EB%A9%B0+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%ED%95%9C%EC%8A%B9%EC%88%98+%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
 
 ## ✨Follow Me
-<a href="https://www.notion.so/e4fafd76b5b942559cdd2d12f424ac5a" target="_blank">
+<a href="https://www.notion.so/Backend-96051ac4321f43fd95915f0ac4dd894e" target="_blank">
     <img 
         src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=Notion&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
