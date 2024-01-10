@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!%20I'm%20KKaeBu!&fontSize=90)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&size=33&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=%EA%B9%A8%EC%A7%80%EA%B3%A0+%EB%B6%80%EC%84%9C%EC%A7%80%EB%A9%B0+%EC%84%B1%EC%9E%90%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EA%B0%9C%EB%B0%9C%EC%9E%90+%ED%95%9C%EC%8A%B9%EC%88%98+%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
-
 ## 👐Introduce
 끊임없이 성장하는 개발자가 되기 위해 노력중인
 주니어 개발자 입니다! 잘 부탁드립니다!!😄<br>
